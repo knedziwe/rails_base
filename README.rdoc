@@ -1,0 +1,19 @@
+== Base Rails Project with Devise and Bootstrap 3.
+
+
+* Rails version
+  4.1.1
+
+* Ruby version
+  2.1.2
+
+* Devise Version
+  3.2.4
+
+* Test Suite
+  Rspec
+
+* How to run the test suite
+  bundle exec rspec spec
+
+
